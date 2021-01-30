@@ -6,7 +6,7 @@ public class SelectWeaponButtonBehaviour : MonoBehaviour
 {
     [SerializeField]
     private GameObject weapon;
-
+    
 
     // Start is called before the first frame update
     void Start()
